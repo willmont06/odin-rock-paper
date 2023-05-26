@@ -1,0 +1,33 @@
+body{
+    background-image: url('/images/scissors.jpg');
+}
+.flexcontainer h1 {
+    color:green ;
+    display:flex;
+    justify-content: center;
+}
+
+.flexcontainer h2{
+    display: flex;
+    justify-content: center;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.resetcontainer{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.outcome{
+
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
